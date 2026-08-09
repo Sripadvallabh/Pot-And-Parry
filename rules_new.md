@@ -46,7 +46,7 @@ A legal pot that would exceed the target scores zero but continues the turn and 
 
 ### Blue-ball shoot-out
 
-Claims and match scores do not apply. Each legal pot scores one shoot-out point. Each tied side takes a direct blue attempt from the D into a declared pocket. The blue may touch only the jaws of that pocket. After equal attempts, eliminate sides below the leading shoot-out score and repeat until one remains. Teammates alternate attempts.
+Claims and match scores do not apply. Continue in normal side order; for a team, the teammate next due takes its first attempt, then teammates alternate. Each legal pot scores one shoot-out point. Each tied side takes a direct blue attempt from the D into a declared pocket. The blue may touch only the jaws of that pocket. After equal attempts, eliminate sides below the leading shoot-out score and repeat until one remains.
 
 ## Parry
 
