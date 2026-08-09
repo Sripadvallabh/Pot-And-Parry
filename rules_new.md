@@ -14,7 +14,7 @@ A **side** means one individual or one team. A team shares one score.
 
 ## Basic play
 
-Any object ball may be nominated as the ball on, including on the opening stroke. If unclear, the striker identifies it when asked.
+Black is the ball on for the opening stroke. Thereafter, any object ball may be nominated as the ball on. If unclear, the striker identifies it when asked.
 
 Normal turns rotate by side. On a team side, teammates alternate its normal turns in a fixed order.
 
@@ -39,9 +39,9 @@ Claims remain after the balls are respotted.
 
 The target is exactly 50. Reaching it ends the side's current play and creates a provisional finish until the round ends.
 
-- A provisionally finished side skips any remaining normal turn in that round but may still be challenged under [Parry](#parry).
-- A foul cancels its provisional finish. Reaching the target does not release its claims.
-- At the end of the round, one side on its target wins; multiple sides on their targets use the blue-ball shoot-out; if none remain on target, play continues.
+- No further parries may be called that round. Unfinished sides take only their remaining normal turns.
+- A provisionally finished side skips any remaining normal turn. Reaching the target does not release its claims.
+- At the end of the round, one side on its target wins; multiple sides on their targets use the blue-ball shoot-out.
 
 A legal pot that would exceed the target scores zero but continues the turn and may still create a claim. Potting another side's claimed color also scores zero and continues the turn.
 
@@ -75,7 +75,7 @@ Each side also gets a loss line ten points below its recorded score. For example
 
 During the showdown, scores may fall below zero. Reaching or crossing the loss line eliminates that side.
 
-Start a new round from the existing position and continue in normal order. Provisional finishes and round completion apply separately to each personal target. Multiple finishers tie; the sole remaining side after eliminations wins. Foul penalties change neither targets nor loss lines.
+Start a new round from the existing position and continue in normal order. Each personal target replaces 50 for the finish procedure under [Winning](#winning). Multiple finishers tie; the sole remaining side after eliminations wins. Foul penalties change neither targets nor loss lines.
 
 ## Free ball
 
