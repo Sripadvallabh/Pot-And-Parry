@@ -1,2 +1,4 @@
-# Pot-And-Parry
-Pot and parry game rules
+# Pot & Parry
+
+- [Current rules](rules_new.md)
+- [Historical rules](rules.md)

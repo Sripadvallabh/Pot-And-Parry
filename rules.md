@@ -1,4 +1,6 @@
-Pot & Parry rules
+# Historical Pot & Parry rules
+
+This file is retained for compatibility and historical reference. See [rules_new.md](rules_new.md) for the current rules.
 
 Setup: Keep the 6 colors in their respective positions. Keep a single red between the blue & pink spots. Game starts with ball placed anywhere inside D.
 
