@@ -305,9 +305,9 @@ def write_pdf(path: Path, content: bytes, title: str) -> None:
 
     xref_offset = len(pdf)
     pdf.extend(f"xref\n0 {len(objects) + 1}\n".encode("ascii"))
-    pdf.extend(b"0000000000 65535 f \n")
+    pdf.extend(b"0000000000 65535 f\r\n")
     for offset in offsets[1:]:
-        pdf.extend(f"{offset:010d} 00000 n \n".encode("ascii"))
+        pdf.extend(f"{offset:010d} 00000 n\r\n".encode("ascii"))
     pdf.extend(
         (
             f"trailer\n<< /Size {len(objects) + 1} /Root 1 0 R /Info 7 0 R >>\n"

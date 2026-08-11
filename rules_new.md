@@ -66,15 +66,9 @@ The owner may deliberately concede the parry by playing another shot; treat it a
 
 After a defended parry, including one that reaches the target, the challenger does not resume and normal turn order continues. The extra visit is not a normal turn and cannot contain another parry. The challenger cannot call another after resuming an interrupted turn following a parry foul.
 
-## Free ball
-
-After a foul, a free ball is available only if the incoming side is snookered on red, every open color and every color it owns. Eligibility ignores the exact target.
-
-The side may nominate another side's claimed color to represent any eligible ball. It scores that ball's value without changing claims. Other free-ball rules apply normally.
-
 ## Fouls
 
-Foul points are deducted from the offending side. Scores cannot fall below zero. The foul-and-a-miss rule is not used.
+Foul points are deducted from the offending side. Scores cannot fall below zero. Free balls and the foul-and-a-miss rule are not used.
 
 ## Optional timed showdown
 
